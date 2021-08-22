@@ -31,7 +31,7 @@ header{
 section{
     
     padding: 20px;
-    background-image: url('/people.jpg');
+    background-image: url('people.jpg');
     background-size:cover;
     
     overflow:hidden;
@@ -81,7 +81,7 @@ select{
     appearance: none;
 
 
-    background-image: url('/arrow.jpg');
+    background-image: url('arrow.jpg');
     background-repeat: no-repeat;
     
 
