@@ -130,3 +130,21 @@ li{
     margin: 0.5%;
 }
 
+@media only screen and (max-width: 450px) {
+    .description p{
+        font-size: 10px;
+
+    }
+
+    .description h3{       
+        padding-top: 10px;
+        font-size: 17px;
+
+  }
+  .picture{
+
+    width: 100px;
+
+}
+  
+}
